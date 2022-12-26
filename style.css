@@ -1,0 +1,103 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.fixed {
+    background-image: url(images/banner.png);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-banner {
+    display: flex;
+}
+
+.input-field {
+    margin-bottom: 2rem;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding: 1rem;
+    border-bottom: 1px solid grey;
+    width: 38%;
+}
+
+.link-button {
+    background-color: tomato;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 10px 40px;
+}
+
+.half {
+    text-align: center;
+}
+
+.taka-container {
+    margin-top: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.taka {
+    height: 130px;
+    width: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.middle {
+    text-align: center;
+}
+
+.mix {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+
+
+}
+
+.area {
+    border: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%px;
+
+
+
+}
+
+.color {
+    background-color: cadetblue;
+
+}
+
+.colorr {
+    background-color: aquamarine;
+}
+
+.colo {
+    background-color: blueviolet;
+}
+
+.foot {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
